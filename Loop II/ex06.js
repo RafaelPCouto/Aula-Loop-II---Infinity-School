@@ -2,5 +2,5 @@ const clientes = ["João", "Daniel", "Larissa", "Mariana", "Julia", "Luana", "Gu
 const produtos = ["molho de tomate", "cenoura", "macarrão", "salame", "lâmpada", "água sanitária", "refrigerante", "suco"]
 
 for (let i = 0; i < clientes.length; i++) {
-    console.log(`O cliente ${clientes[i]} comprou ${produtos[i]}`)
+    console.log(`O cliente ${clientes[i]} comprou ${produtos[i]}.`)
 }
